@@ -1,0 +1,11 @@
+.col-center-block {
+    float: none;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.boxes {
+    font-size: 14px;
+    color: #F00;
+}
